@@ -1,0 +1,53 @@
+
+body{
+  margin:60px;
+  background-size:cover;
+}
+
+.jumbotron{
+  border-radius:5px;
+  width:24.67%;
+  height:23%;
+  background-color:#EE3A43;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:5%;
+  border-style: solid;
+  border-width: 10px;
+  border-color:#FFCF00;
+}
+
+h2{
+  color:#FFFCE6;
+}
+
+#icons{
+  color:#FFFCE6;
+  padding:10px;
+  font-size:25px;
+}
+
+.wi-day-rain-mix{
+  padding-left:15px;
+  padding-right:15px;
+}
+
+ul{
+  color:#FFFCE6;
+}
+
+#fTemp{
+  padding:4px;
+}
+
+#city{
+  padding-top:25px;
+}
+
+#weatherType{
+  padding:5px;
+}
+
+#windSpeed{
+  padding:10px;
+}
